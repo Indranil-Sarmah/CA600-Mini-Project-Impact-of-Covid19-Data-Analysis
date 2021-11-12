@@ -3,4 +3,4 @@ This project will be a related on the field of data analysis where a proper stat
 
 *Under the guidance of : Dr. B K Sarkar (Asst. Professor)*
 
-<a href="https://github.com/Indranil-Sarmah"target="_blank"><img src="https://img.shields.io/github/followers/Indranil-Sarmah?style=social"></a>
+<a href="https://github.com/Indranil-Sarmah" target="_blank"><img src="https://img.shields.io/github/followers/Indranil-Sarmah?style=social"></a>
